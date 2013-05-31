@@ -25,6 +25,7 @@
   height: 480px;
   width:  auto;
   margin-left: 35px;
+  border-radius: 30px;
 
 }
 
@@ -52,4 +53,10 @@
 
 #about {
   text-align: center;
+}
+
+#contact {
+  line-height: 150%;
+  padding-top: 10%;
+  margin: 0 auto;
 }
