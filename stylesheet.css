@@ -24,9 +24,9 @@ body {
 }
 
 #main-img {
-  height: 480px;
+  height: 400px;
   width:  auto;
-  margin-left: 0 auto;
+  margin-left: 10px auto;
   border-radius: 30px;
 
 }
