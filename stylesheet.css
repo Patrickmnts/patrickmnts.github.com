@@ -1,5 +1,9 @@
 /*Custom CSS */
 
+body {
+  font-family: courier new, ariel, sans-sarif;
+}
+
 .container h2 {
 }
 
@@ -22,7 +26,7 @@
 #main-img {
   height: 480px;
   width:  auto;
-  margin-left: 35px;
+  margin-left: 0 auto;
   border-radius: 30px;
 
 }
@@ -57,4 +61,8 @@
   line-height: 150%;
   padding-top: 10%;
   margin: 0 auto;
+}
+
+#PCSinfo {
+  float: right;
 }
