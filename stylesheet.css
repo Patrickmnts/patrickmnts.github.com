@@ -66,3 +66,8 @@ body {
 #PCSinfo {
   float: right;
 }
+
+.container-fluid {
+  margin: 0 auto;
+  max-width:  740px;
+}
