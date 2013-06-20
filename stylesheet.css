@@ -28,7 +28,6 @@ body {
   width:  auto;
   margin-left: 10px auto;
   border-radius: 30px;
-
 }
 
 #webskills {
@@ -81,6 +80,9 @@ body {
   text-indent: 2em;
 }
 
+.image {
+  max-height: 100%;
+}
 
 
 
