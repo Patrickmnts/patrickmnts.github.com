@@ -90,6 +90,22 @@ body {
   margin: 0 auto;
 }
 
+#wrench {
+  margin: 0 auto;
+  margin-bottom: 10px;
+  display: block;
+  border: 4px solid black;
+
+}
+
+#cycle {
+  margin: 0 auto;
+  margin-top: 10px;
+  display: block;
+  border: 4px solid black;
+  height: 400px;
+}
+
 
 
 
