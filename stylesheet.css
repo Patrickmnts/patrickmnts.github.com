@@ -3,8 +3,17 @@ body {
   font-family: courier new, ariel, sans-sarif;
 }
 
+.container-fluid {
+  margin: 0 auto;
+  max-width:  980px;
+}
+
 #contact-list {
   line-height: 200%;
+}
+
+#resumebtn {
+  margin-left: 38%;
 }
 
 #contact-list #float {
@@ -52,17 +61,12 @@ body {
 
 #contact {
   line-height: 150%;
-  padding-top: 10%;
+  padding-top: 8%;
   margin: 0 auto;
 }
 
 #PCSinfo {
   float: right;
-}
-
-.container-fluid {
-  margin: 0 auto;
-  max-width:  900px;
 }
 
 .blog {
@@ -80,6 +84,9 @@ body {
   border: 4px solid black;
 }
 
+
+
+/* BLOG IMAGES!!! */
 #righttool {
   float: right;
   height: 400px;
