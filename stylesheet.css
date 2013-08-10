@@ -113,6 +113,14 @@ body {
   height: 400px;
 }
 
+/* COLORBOX POPUP WINDOWS */
+div#cboxContent {
+  height: 100%;
+  width: 100%;
+  border: 4px solid;
+  border-radius: 8px;
+}
+
 
 
 
