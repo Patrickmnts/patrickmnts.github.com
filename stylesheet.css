@@ -122,7 +122,10 @@ div#cboxContent {
   border-radius: 8px;
 }
 
-
+/* PORTFOLIO PAGE */
+.project-desc p {
+  font-size: 16px;
+}
 
 
 
